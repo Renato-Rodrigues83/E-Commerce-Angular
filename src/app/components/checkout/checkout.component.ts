@@ -9,6 +9,6 @@ import { Component } from '@angular/core';
 })
 export class CheckoutComponent {
     OnCheckout(){
-      
-    }
+        console.log("Checkout");  
+      }
 }
